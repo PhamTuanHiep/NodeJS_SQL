@@ -8,3 +8,4 @@ update data: npx sequelize-cli db:seed:all
 // "start": "nodemon --exec ./node_modules/.bin/babel-node src/server.js"
 email: user@gmail.com
 password: 123456
+github: https://github.com/PhamTuanHiep/NodeJS_SQL/tree/main
